@@ -2,6 +2,7 @@
 
 
 I'm a junior web developer with a background in opera and musical theatre.
+My tech stack includes React, Vue.js, Javascript, HTML/CSS, jQuery, Node.js, PostgreSQL, Redux, Handlebars, Express and Socket.io.
  
 - 🏀  I’m currently working on an app that will optimise organising pick-up basketball games.
 - 🌱 I’m currently learning more about React Native and Three.js
