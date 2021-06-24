@@ -1,7 +1,5 @@
 ### Hi, I'm Lars 🙋🏻‍♀️ 👋
 
-<!--
-**internetlars/internetlars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 I'm a junior web developer with a background in opera and musical theatre.
  
@@ -12,4 +10,4 @@ I'm a junior web developer with a background in opera and musical theatre.
 www.linkedin.com/in/lars-marcel-braun-859b91212
 https://www.instagram.com/internetlars/
 - 🙎🏻‍♀️ Pronouns: he/him
--->
+
